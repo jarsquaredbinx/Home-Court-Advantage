@@ -1,7 +1,7 @@
 # Home-Court-Advantage
 ### Small data analytics project answering three questions regarding home court advantage.
 
-##Question
+Question
 Has home-court advantage in the NBA declined since 2000, and what happens to it when fans are removed?
 
 This is a three-parter:
