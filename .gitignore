@@ -1,0 +1,7 @@
+data/raw/*
+data/clean/*
+data/tableau/*
+!**/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
